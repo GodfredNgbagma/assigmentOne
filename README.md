@@ -1,4 +1,4 @@
-Solutions to Assigment one questions give by Mr. Ed
+Solutions to Assignment one questions give by Mr. Ed
 Using the group_by and the summarise functions 
 
 find the;
